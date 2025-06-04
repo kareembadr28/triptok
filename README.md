@@ -42,7 +42,7 @@
 ## 👨‍💻 Team
 
 - Kareem Badr – [GitHub Profile](https://github.com/kareembadr28)
-- (Add more team members if needed)
+- Farida Emad – [GitHub Profile](https://github.com/faridaemadibrahim)
 
 ---
 
