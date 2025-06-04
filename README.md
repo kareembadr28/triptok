@@ -43,7 +43,8 @@
 
 - Kareem Badr – [GitHub Profile](https://github.com/kareembadr28)
 - Farida Emad – [GitHub Profile](https://github.com/faridaemadibrahim)
-
+- Abdo Hamada – [GitHub Profile](https://github.com/ABDOHAMDA)
+- Shahd Saed – [GitHub Profile](https://github.com/ShahdSaed)
 ---
 
 ## 🛠️ How to Run the Project
